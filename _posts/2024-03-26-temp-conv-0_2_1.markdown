@@ -5,4 +5,6 @@ date:   2024-03-26 22:41:37 +0100
 categories: programming
 ---
 
-Today I released version 0.2.1 of my project temp-conv.
+Yesterday I released version 0.2.1 of my project [temp-conv](https://github.com/baumbus/temp-conv).
+
+**Full Changelog**: [here](https://github.com/baumbus/temp-conv/compare/v0.2.0...v0.2.1)
