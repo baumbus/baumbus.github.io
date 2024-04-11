@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Forked avr-rust/book.avr-rust.com"
+categories: programming
 ---
 
 ## Reason
