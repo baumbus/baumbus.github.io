@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Forked avr-rust/book.avr-rust.com"
+---
+
+## Reason
+
+The site [book.avr-rust.com](book.avr-rust.com) is down and I wanted to use the book in a browser. So I forked the repo and changed the GitHub Actions workflow of the repo and published the book on [GitHub Pages](https://baumbus.github.io/avr-rust/).
